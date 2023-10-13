@@ -30,7 +30,7 @@ body {
   span {
     font-weight: bold;
     font-style: italic;
-    color: rgb(146, 39, 205); /* RGB format */
+    color: rgb(146, 39, 205);
     margin: 2px 5px;
   }
   
